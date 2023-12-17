@@ -1,4 +1,4 @@
-﻿function Update-IncreaseIPv4Address {
+﻿Function Update-IncreaseIPv4Address {
     <#
     .SYNOPSIS
         Increase the IP address with 1 or more.
